@@ -105,9 +105,9 @@ The top predictors of creditworthiness included:
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn xgboost joblib
 3. Run the Jupyter Notebooks in the following order:
-   - `24.1_1_Data_Understanding_and_Preprocessing.ipynb`
-   - `24.1_2_Baseline_Modeling_and_Selection.ipynb`
-   - `24.1_3_Hyperparameter_Tuning_and_Insights.ipynb`
+   - [`24.1_1_Data_Understanding_and_Preprocessing.ipynb`](https://github.com/adongardive/Module_24/blob/main/24_1_1_Data_Understanding_and_Baseline_Modeling.ipynb)
+   - [`24.1_2_Baseline_Modeling_and_Selection.ipynb`](https://github.com/adongardive/Module_24/blob/main/24_1_2_Hyperparameter_Tuning_and_Model_Refinement.ipynb)
+   - [`24.1_3_Hyperparameter_Tuning_and_Insights.ipynb`](https://github.com/adongardive/Module_24/blob/main/24_1_3_Final_Model_and_Business_Insights.ipynb)
 
 
 ##### **Contact and Further Information**
