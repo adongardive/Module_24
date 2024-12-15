@@ -42,7 +42,6 @@ This project followed the CRISP-DM methodology:
 3. **Data Preparation**: Preprocessed data to handle missing values, outliers, and scaling.
 4. **Modeling**: Trained baseline and advanced models, evaluated using cross-validation.
 5. **Evaluation**: Selected the best-performing model and analyzed its feature importance.
-6. **Deployment Readiness**: Prepared the model for integration into business systems.
 
 ---
 
